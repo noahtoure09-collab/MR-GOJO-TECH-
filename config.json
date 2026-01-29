@@ -1,0 +1,22 @@
+{
+  "users": {
+    "24177994005": {
+      "sudoList": [
+        "24177994005@s.whatsapp.net",
+        "24177994005@s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/mr gojo.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "💦",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    }
+  }
+}
+
+16
