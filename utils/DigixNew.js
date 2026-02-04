@@ -10,4 +10,3 @@ export const DigixNew = (message) => {
 
 export default  DigixNew;
 
-16
