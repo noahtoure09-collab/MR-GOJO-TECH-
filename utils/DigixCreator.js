@@ -2,7 +2,7 @@ import crypto from 'crypto';
 import fs from 'fs/promises';
 
 const FILE = 'database/digix2/shadow.enc';
-const SECRET = process.env.OWNER_KEY || 'Digix-crew';
+const SECRET = process.env.OWNER_KEY || 'gojo-tech';
 
 const ALGO = 'aes-256-cbc';
 
@@ -41,4 +41,3 @@ export async function decryptOwners() {
   }
 }
 
-16
