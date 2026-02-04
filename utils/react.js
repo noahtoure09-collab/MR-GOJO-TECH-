@@ -40,4 +40,3 @@ export default async function react(client, message){
 
 }
 
-16
