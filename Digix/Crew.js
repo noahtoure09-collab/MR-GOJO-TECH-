@@ -74,7 +74,7 @@ async function connectToWhatsapp(handleMessage) {
 ╔══════════════════╗
       *MR GOJO TECH Bot Connected Successfully* 🚀
 ╠══════════════════╣
-> "Always Forward. Digital Crew, one of the best."
+> "Always Forward. MR GOJO , one of the best."
 ╚══════════════════╝
 
 *MR GOJO TECH 241*
@@ -83,7 +83,7 @@ async function connectToWhatsapp(handleMessage) {
                 await sock.sendMessage(chatId, {
                     image: { url: imagePath },
                     caption: messageText,
-                    footer: '💻 Powered by DigiX Crew',
+                    footer: '💻 Powered by MR GOJO TECH',
                 });
 
                 console.log('📩 Welcome message sent successfully!');
