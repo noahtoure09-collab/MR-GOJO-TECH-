@@ -141,5 +141,3 @@ async function connectToWhatsapp(handleMessage) {
 }
 
 export default connectToWhatsapp;
-
-16
