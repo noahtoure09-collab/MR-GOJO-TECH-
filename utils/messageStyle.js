@@ -17,4 +17,3 @@ export default function stylizedCardMessage(text) {
   }
 }
 
-16
