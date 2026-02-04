@@ -23,4 +23,4 @@ async function bug(message, client, texts, num) {
 
 export default bug;
 
-16
+
